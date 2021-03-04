@@ -29,4 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##links
 
 https://angular-blog-66c1d.firebaseapp.com/
+
 https://angular-blog-66c1d.firebaseapp.com/admin 
+
+admin@admin.com - login
+
+123123 - password
